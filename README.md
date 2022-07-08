@@ -4,7 +4,7 @@
 
 <p align="center">
   ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlannDure&count_private=true)
-</p align="center">
+</p>
 
 <!--
 **AlannDure/AlannDure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
