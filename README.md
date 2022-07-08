@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanndure)](https://github.com/alanndure/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=AlannDure&count_private=true)
 </>
 
 <!--
