@@ -82,7 +82,7 @@ src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=Git
 <br>
 
 
-![Alan's GitHub stats](  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlannDure&count_private=true&show_icons=true&theme=radical" />)
+<img align="center" src=![Alan's GitHub stats]("https://github-readme-stats.vercel.app/api?username=AlannDure&count_private=true&show_icons=true&theme=radical") />
 
 <!--
 **AlannDure/AlannDure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
