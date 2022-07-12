@@ -10,15 +10,12 @@
 
 <p align="center">
       
-   <img
-    src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=flat"
-    alt="WPF"
-  />
+
       <img
       src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
   
       <img
-      src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+      src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
   
       <img
       src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" />
