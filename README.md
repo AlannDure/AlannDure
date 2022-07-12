@@ -9,7 +9,11 @@
 </h5>
 
 <p align="center">
-  
+      
+   <img
+    src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white&style=flat"
+    alt="WPF"
+  />
       <img
       src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" />
   
