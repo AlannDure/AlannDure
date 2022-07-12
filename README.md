@@ -46,11 +46,11 @@
 
 
   <img
-    src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=%2361DAFB&style=social&logo"
+    src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=%2361DAFB&style=for-the-badge&logo"
     alt="React"
   />
   <img
-    src="https://img.shields.io/badge/React_Native-35434F.svg?logo=react&logoColor=%2361DAFB&style=social&logo"
+    src="https://img.shields.io/badge/React_Native-35434F.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge&logo"
     alt="React Native"
   />
 
