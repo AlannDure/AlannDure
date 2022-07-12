@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there 👋
+  Hi there !
+  <br>
+  My name is Alan, i'm a full stack developer 💻
 </h1>
 
-<h5 align="left">
-  My name is Alan, i'm a full stack developer 💻.
-  
+<h5 align="center">
   Currently working with Ruby on Rails + React and starting with React Native 
 </h5>
 
