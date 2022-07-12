@@ -11,7 +11,7 @@
 <p align="center">
   
    <img
-    src="[https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-         badge&logo=HTML5&logoColor=white)"/>
+    src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-         badge&logo=HTML5&logoColor=white)"/>
 
 </p>
 
