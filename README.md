@@ -2,6 +2,11 @@
   Hi there 👋
 </h1>
 
+<h5 align="left">
+  My name is Alan, i'm a full stack developer 💻.
+  
+  Currently working with Ruby on Rails + React and starting with React Native 
+</h5>
 
   ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlannDure&count_private=true&show_icons=true&theme=radical)
 
