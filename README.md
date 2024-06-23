@@ -36,6 +36,9 @@ src="https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo
 src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" 
 />
 <img
+src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
+/>
+<img
 src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"
 />
 <img
