@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there !
   <br>
-  My name is Alan,&nbsp;i'm a full stack developer 💻
+  My name is Alan,&nbsp;I'm a full stack developer 💻
 </h1>
 
 <h4 align="center">
