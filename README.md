@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there !
+  Hi there!
   <br>
   My name is Alan,&nbsp;I'm a full stack developer 💻
 </h1>
