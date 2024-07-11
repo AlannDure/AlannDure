@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  Currently working with Ruby on Rails + React and starting with React Native 
+  Currently working with Ruby on Rails + React and Next, starting with React Native as well.
 </h4>
 
 <br>
